@@ -1,2 +1,2 @@
 # StarBlue
-NexusPHP-星蓝皮肤
+NexusPHP-星蓝主题
